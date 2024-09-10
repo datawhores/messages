@@ -1,1 +1,1 @@
-[bold red]OF-Scraper Announcement: CDRM-Project URL has been deprecated please update to at least 3.12.3[/bold red] [yellow]\[Message can be ignored if already updated or you use keysdb, or manual cdm][/yellow]
+[bold red]OF-Scraper Announcement: CDRM-Project URL has been deprecated please update to at least [bold yellow]3.12.3[/bold yellow][/bold red] [yellow]\[Message can be ignored if already updated or you use keysdb, or manual cdm][/yellow]
