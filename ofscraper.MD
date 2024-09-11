@@ -2,4 +2,4 @@
 
 2. cdrm seems to be getting ip blocked by onlyfans based on error messages, the fix is to use your own keys or switch to keydb
 or to wait for the requests to work again
-[/bold red] [yellow]
+[/bold red]
