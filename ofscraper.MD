@@ -1,1 +1,1 @@
-[bold red]OF-Scraper Announcement: For those who use cdrm for cdm,a fix has been pushed to handle errors from the CDRM-Project API. Previously bad keys would be cached, and lead  to endless errors. Update to at least [bold yellow]3.12.6[/bold yellow][/bold red] [yellow]
+[bold red]OF-Scraper Announcement: For those who use cdrm for cdm,a fix has been pushed to handle errors from the CDRM-Project API. Previously FFMPEG would endlessly fail for effected downloads because of bad inputs being cached. Update to at least [bold yellow]3.12.6[/bold yellow][/bold red] [yellow]
